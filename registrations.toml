@@ -1,0 +1,12 @@
+# Key-to-Service Registration Log
+# Tracks which keys are registered to which services
+
+# Example entry (uncomment and fill when you register a key):
+# [[registration]]
+# service = "pypi.org"
+# account = "amj@mqqn.net"
+# key_id = "titan-k40t-1"
+# registered_date = "2026-03-06"
+# method = "WebAuthn/FIDO2"
+# nickname = ""  # the name you gave the key on the service
+# notes = ""

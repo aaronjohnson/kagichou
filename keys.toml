@@ -1,0 +1,42 @@
+# Hardware Security Key Inventory
+# Last updated: 2026-03-06
+
+[keys.titan-k51t-1]
+brand = "Google Titan"
+model = "K51T"
+connector = "USB-A"
+location = "with-owner"
+status = "available"
+notes = "Verify FIDO2/WebAuthn support before registering"
+
+[keys.titan-k40t-1]
+brand = "Google Titan"
+model = "K40T"
+connector = "USB-C"
+location = "with-owner"
+status = "available"
+notes = ""
+
+[keys.titan-k40t-2]
+brand = "Google Titan"
+model = "K40T"
+connector = "USB-C"
+location = "with-owner"
+status = "available"
+notes = ""
+
+[keys.titan-k52t-1]
+brand = "Google Titan"
+model = "K52T"
+connector = "USB-C/NFC"
+location = "with-owner"
+status = "available"
+notes = "Verify FIDO2/WebAuthn support before registering"
+
+# Keys at other location (to be inventoried)
+# [keys.titan-xxx-n]
+# brand = "Google Titan"
+# model = "???"
+# connector = "???"
+# location = "other-site"
+# status = "unknown"

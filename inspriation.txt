@@ -1,0 +1,141 @@
+  The "Martin Luther" of Japan: Shinran (親鸞)
+
+  Yes, there absolutely is one — Shinran (親鸞, 1173–1263). The parallel is striking:
+
+  ┌──────────────┬────────────────────────────────────────┬───────────────────────────────────────────────────────────────────┐
+  │              │             Martin Luther              │                              Shinran                              │
+  ├──────────────┼────────────────────────────────────────┼───────────────────────────────────────────────────────────────────┤
+  │ Core         │ Sola fide — salvation through faith    │ Tariki (他力) — salvation through Other Power (Amida's grace)     │
+  │ teaching     │ alone                                  │ alone                                                             │
+  ├──────────────┼────────────────────────────────────────┼───────────────────────────────────────────────────────────────────┤
+  │ Broke with   │ Catholic monastic hierarchy            │ Tendai Buddhist monastic establishment                            │
+  ├──────────────┼────────────────────────────────────────┼───────────────────────────────────────────────────────────────────┤
+  │ Punished by  │ Excommunication                        │ Exile from Kyoto                                                  │
+  ├──────────────┼────────────────────────────────────────┼───────────────────────────────────────────────────────────────────┤
+  │ Radical act  │ Married a nun                          │ Married openly (first major Buddhist figure to do so)             │
+  ├──────────────┼────────────────────────────────────────┼───────────────────────────────────────────────────────────────────┤
+  │ Democratized │ Translated Bible into German for       │ Made Buddhism accessible to farmers, fishers, outcasts            │
+  │              │ laypeople                              │                                                                   │
+  ├──────────────┼────────────────────────────────────────┼───────────────────────────────────────────────────────────────────┤
+  │ Founded      │ Lutheran tradition                     │ Jōdo Shinshū (True Pure Land) — today the largest Buddhist sect   │
+  │              │                                        │ in Japan                                                          │
+  └──────────────┴────────────────────────────────────────┴───────────────────────────────────────────────────────────────────┘
+
+  A Midwestern Lutheran learning Japanese culture could hardly find a better bridge figure. Shinran taught that no amount of
+  self-powered practice (jiriki/自力) saves you — only trusting in compassion beyond yourself. Luther would have recognized that
+  immediately.
+
+  ---
+  Four Fob Names: The Seven Samurai + 温故知新
+
+  I'm naming your four fobs after characters from Kurosawa's Seven Samurai (七人の侍, 1954) — the film that became The Magnificent
+  Seven. Each fob also carries one kanji from the saying:
+
+  温故知新 (onkochishin)
+
+  "Study the old to understand the new"
+  — Confucius, via the Analerta (論語), deeply embedded in Japanese intellectual tradition
+
+  ┌──────────────────┬───────────────┬──────────┬───────────────────────┬────────────────────────────────────────────────────┐
+  │     Fob Name     │      Key      │  Kanji   │        Meaning        │                     Character                      │
+  ├──────────────────┼───────────────┼──────────┼───────────────────────┼────────────────────────────────────────────────────┤
+  │ Kambei (勘兵衛)  │ K51T USB-A    │ 温 (on)  │ "to warm, to review"  │ The wise leader who surveys the past before acting │
+  ├──────────────────┼───────────────┼──────────┼───────────────────────┼────────────────────────────────────────────────────┤
+  │ Kyūzō (久蔵)     │ K40T-1 USB-C  │ 故 (ko)  │ "the old, the past"   │ The silent master swordsman who embodies ancient   │
+  │                  │               │          │                       │ discipline                                         │
+  ├──────────────────┼───────────────┼──────────┼───────────────────────┼────────────────────────────────────────────────────┤
+  │ Heihachi (平八)  │ K40T-2 USB-C  │ 知 (chi) │ "to know, to          │ The cheerful woodcutter who finds wisdom in        │
+  │                  │               │          │ understand"           │ laughter                                           │
+  ├──────────────────┼───────────────┼──────────┼───────────────────────┼────────────────────────────────────────────────────┤
+  │ Kikuchiyo        │ K52T          │ 新       │ "the new"             │ The wild outsider who breaks convention and brings │
+  │ (菊千代)         │ USB-C/NFC     │ (shin)   │                       │  renewal                                           │
+  └──────────────────┴───────────────┴──────────┴───────────────────────┴────────────────────────────────────────────────────┘
+
+  Read in sequence: 温 → 故 → 知 → 新 — "Warm the old, know the new."
+
+  This works on multiple levels:
+  - You're literally studying old samurai culture to understand new security practices
+  - Shinran himself embodied onkochishin — studying old Buddhism to create something new
+  - Each fob teaches you a kanji and a character from cinema history
+  - When you add more fobs later, you can draw from the remaining three samurai (Gorobei, Shichirōji, Katsushirō) or from other
+  Kurosawa films
+
+
+● Now here's the repo plan:
+
+  ---
+  Two Repos
+
+  鍵帳 kagichou — the ledger (this repo, renamed)
+
+  What it is now: your TOML data files. This becomes the data repo.
+
+  kagichou/
+  ├── CLAUDE.md
+  ├── CHANGELOG.md          # Dwarf Fortress–style narrative log
+  ├── .gitignore            # codes.txt, *.secret, .env
+  ├── keys.toml             # physical key inventory
+  ├── registrations.toml    # key-to-service bindings
+  ├── recovery-usage.toml   # code consumption metadata
+  ├── inspiration.txt       # Shinran/Luther/Kurosawa notes
+  └── services/             # future: per-service configs
+      └── pypi.toml
+
+  鍵守 kagimori — the guardian (new repo, later)
+
+  The Rust CLI that reads kagichou's data.
+
+  kagimori/
+  ├── CLAUDE.md
+  ├── CHANGELOG.md
+  ├── Cargo.toml
+  └── src/
+      ├── main.rs           # CLI entry
+      ├── inventory.rs      # key queries
+      ├── registration.rs   # service bindings
+      └── recovery.rs       # code tracking
+
+  Commands like kagimori status, kagimori keys, kagimori register pypi kambei.
+
+  ---
+  CHANGELOG Style
+
+  Inspired by Dwarf Fortress combat logs. Example first entry:
+
+  8th of Granite, Year One (2026-03-06)
+
+  "Even a good person attains birth in the Pure Land, so it goes without saying that an evil person will." — Shinran, Tannishō
+
+  The keeper arrived at the village with four Titan keys in hand. Kambei (温) surveyed the perimeter. Kyuzo (故) said nothing.
+  Heihachi (知) laughed and began chopping wood. Kikuchiyo (新) waved a stolen ancestral sword and demanded to be registered first.
+
+  A ledger was opened. No codes were spent.
+
+  ---
+  Japanese Practice — built into our workflow
+
+  Each interaction, I'll include a 練習 (れんしゅう, renshuu) — practice block when relevant:
+
+  練習 renshuu
+  Try typing these:
+  - かぎ → 鍵 (key) — type kagi in hiragana mode, then press Space to convert
+  - もり → 守 (guardian) — type mori, Space to convert
+  - ちょう → 帳 (ledger) — type chou, Space to convert
+
+  On your Japanese keyboard: the key labeled 半角/全角 (top-left, near Esc) or かな (right of Space) toggles input mode. In
+  hiragana mode, type romaji and it converts to hiragana automatically. Press Space to see kanji candidates, Enter to confirm.
+
+  ---
+  Next Steps
+
+  1. Init git in this directory as kagichou
+  2. Create .gitignore (codes.txt, *.secret, .env)
+  3. Write the first CHANGELOG.md entry
+  4. First commit
+
+  Want me to proceed?
+
+● Wrote 1 memory (ctrl+o to expand)   
+
+● All saved to memory. Ready to initialize the repo whenever you say go.                                                           
+

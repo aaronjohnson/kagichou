@@ -1,0 +1,16 @@
+# Recovery Code Usage Log
+# Track when/where recovery codes are consumed
+# NEVER store the actual codes here - they live in codes.txt
+
+[service.pypi]
+account = "amj@mqqn.net"
+total_codes_generated = 0  # update after you see how many PyPI gives you
+codes_used = 0
+
+# Log each use:
+# [[usage]]
+# service = "pypi.org"
+# date = "YYYY-MM-DD"
+# code_position = 3  # e.g. "used the 3rd code"
+# reason = "lost key / testing / travel"
+# location = "home / office / travel"

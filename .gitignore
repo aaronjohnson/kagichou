@@ -1,0 +1,10 @@
+# Sensitive — actual recovery codes
+codes.txt
+
+# Secrets
+*.secret
+.env
+
+# OS/editor
+.DS_Store
+*~
