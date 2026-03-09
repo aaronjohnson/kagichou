@@ -1,12 +1,42 @@
-# Key-to-Service Registration Log
+# Key-to-Service Registration Log — 鍵帳 kagichou
 # Tracks which keys are registered to which services
+# Last updated: 2026-03-09
 
-# Example entry (uncomment and fill when you register a key):
+# Register keys by uncommenting and filling entries below.
+# Use the nickname to identify keys quickly.
+
+# [[registration]]
+# service = "pypi.org"
+# account = "amj@mqqn.net"
+# key_id = "titan-k51t-1"
+# nickname = "Kambei (勘兵衛)"
+# registered_date = ""
+# method = "WebAuthn/FIDO2"
+# notes = ""
+
 # [[registration]]
 # service = "pypi.org"
 # account = "amj@mqqn.net"
 # key_id = "titan-k40t-1"
-# registered_date = "2026-03-06"
+# nickname = "Kyuzo (久蔵)"
+# registered_date = ""
 # method = "WebAuthn/FIDO2"
-# nickname = ""  # the name you gave the key on the service
+# notes = ""
+
+# [[registration]]
+# service = "pypi.org"
+# account = "amj@mqqn.net"
+# key_id = "titan-k40t-2"
+# nickname = "Heihachi (平八)"
+# registered_date = ""
+# method = "WebAuthn/FIDO2"
+# notes = ""
+
+# [[registration]]
+# service = "pypi.org"
+# account = "amj@mqqn.net"
+# key_id = "titan-k52t-1"
+# nickname = "Kikuchiyo (菊千代)"
+# registered_date = ""
+# method = "WebAuthn/FIDO2"
 # notes = ""

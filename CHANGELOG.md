@@ -37,3 +37,39 @@ The ledger was given its proper name.
 A .gitignore was placed at the gate: no secrets shall pass.
 
 > *The village now has a name. The guardian will arrive when the forge is ready.*
+
+---
+
+## 9th of Granite, Year One (2026-03-09)
+
+*"Here I stand. I can do no other. God help me. Amen."*
+— Martin Luther, Diet of Worms, 1521
+
+The ledger was carried to the storehouse (元, moto) at last.
+A mishap: the keeper, distracted, posted the village charter
+to the radio tower (w7lt-mtscott-shm) instead of the ledger hall.
+The error was discovered. The charter was struck from the tower's records.
+No harm done. Kyūzō (故) did not comment.
+
+The 台所 (daidokoro, kitchen) was declared the heart of operations —
+Heihachi (知) approved, naturally. The remote storehouse was named
+元 (moto, origin), for all things return to where they began.
+
+Each of the four keys received its proper name in the ledger:
+
+- **Kambei** (勘兵衛) — K51T USB-A — 温 on — the wise leader
+- **Kyūzō** (久蔵) — K40T USB-C — 故 ko — the silent master
+- **Heihachi** (平八) — K40T USB-C — 知 chi — the cheerful woodcutter
+- **Kikuchiyo** (菊千代) — K52T USB-C/NFC — 新 shin — the wild outsider
+
+A pamphlet was drafted: *Three Reformers* (三人の改革者) —
+comparing Luther, Shinran, and Kurosawa as rebels who brought
+truth to common people. It was written in Texinfo,
+fit for folding and carrying in one's pocket.
+
+The keeper began learning the village script.
+First words typed: 日本語, お願いします, 頼む, 完了.
+The IME offered 異本語 instead of 日本語. Kikuchiyo laughed.
+
+> *Four keys named. One pamphlet written. The keeper learns to write.*
+> *温故知新 — warm the old, know the new.*

@@ -1,5 +1,5 @@
-# Hardware Security Key Inventory
-# Last updated: 2026-03-06
+# Hardware Security Key Inventory — 鍵帳 kagichou
+# Last updated: 2026-03-09
 
 [keys.titan-k51t-1]
 brand = "Google Titan"
@@ -7,6 +7,11 @@ model = "K51T"
 connector = "USB-A"
 location = "with-owner"
 status = "available"
+nickname = "Kambei"
+nickname_kanji = "勘兵衛"
+onkochishin = "温"
+onkochishin_reading = "on — to warm, to review"
+character = "The wise leader who surveys the past before acting"
 notes = "Verify FIDO2/WebAuthn support before registering"
 
 [keys.titan-k40t-1]
@@ -15,6 +20,11 @@ model = "K40T"
 connector = "USB-C"
 location = "with-owner"
 status = "available"
+nickname = "Kyuzo"
+nickname_kanji = "久蔵"
+onkochishin = "故"
+onkochishin_reading = "ko — the old, the past"
+character = "The silent master swordsman who embodies ancient discipline"
 notes = ""
 
 [keys.titan-k40t-2]
@@ -23,6 +33,11 @@ model = "K40T"
 connector = "USB-C"
 location = "with-owner"
 status = "available"
+nickname = "Heihachi"
+nickname_kanji = "平八"
+onkochishin = "知"
+onkochishin_reading = "chi — to know, to understand"
+character = "The cheerful woodcutter who finds wisdom in laughter"
 notes = ""
 
 [keys.titan-k52t-1]
@@ -31,12 +46,19 @@ model = "K52T"
 connector = "USB-C/NFC"
 location = "with-owner"
 status = "available"
+nickname = "Kikuchiyo"
+nickname_kanji = "菊千代"
+onkochishin = "新"
+onkochishin_reading = "shin — the new"
+character = "The wild outsider who breaks convention and brings renewal"
 notes = "Verify FIDO2/WebAuthn support before registering"
 
 # Keys at other location (to be inventoried)
+# Future samurai: Gorobei (五郎兵衛), Shichiroji (七郎次), Katsushiro (勝四郎)
 # [keys.titan-xxx-n]
 # brand = "Google Titan"
 # model = "???"
 # connector = "???"
 # location = "other-site"
 # status = "unknown"
+# nickname = ""

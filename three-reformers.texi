@@ -1,0 +1,498 @@
+\input texinfo
+@settitle Three Reformers @dots{} 三人の改革者
+@documentencoding UTF-8
+@afourpaper
+
+@c -----------------------------------------------------------
+@c  Three Reformers: Luther, Shinran, Kurosawa
+@c  A folding pamphlet — print double-sided, fold in quarters
+@c -----------------------------------------------------------
+
+@titlepage
+@title Three Reformers
+@subtitle 三人の改革者 (さんにんのかいかくしゃ)
+@subtitle Luther @bullet{} Shinran @bullet{} Kurosawa
+@subtitle @emph{A pocket companion for the keeper of keys}
+@author 鍵帳 kagichou project
+@vskip 2cm
+@center @emph{温故知新 — Study the old to understand the new.}
+@end titlepage
+
+@contents
+
+@ifnottex
+@node Top
+@top Three Reformers — 三人の改革者
+A pamphlet comparing three rebels who broke with establishment
+to bring truth closer to ordinary people.
+
+Print, fold in quarters, carry in your pocket.
+@end ifnottex
+
+@menu
+* Introduction::          Why these three together
+* The Reformers::         Who they were
+* Parallels::             Side by side
+* In Their Own Words::    Quotes — 言葉 (ことば)
+* Onkochishin::           温故知新 — The thread that binds
+* The Keys::              How this connects to kagichou and kagimori
+* The Kitchen::           台所 — How the village was built
+* Vocabulary::            練習 (れんしゅう) — Practice
+@end menu
+
+@c ============================================================
+@node Introduction
+@chapter The Rebel's Pattern — 反逆の型 (はんぎゃくのかた)
+
+Three men, separated by centuries and oceans, followed the same arc:
+
+@enumerate
+@item
+Each trained within the establishment — monastery, temple, studio.
+@item
+Each found the establishment had drifted from its purpose.
+@item
+Each broke away at great personal cost.
+@item
+Each made their art accessible to common people.
+@item
+Each was punished, then vindicated by history.
+@end enumerate
+
+@quotation
+Martin Luther (1483--1546) — Wittenberg, Germany@*
+Shinran (親鸞, 1173--1263) — Kyoto, then exile@*
+Akira Kurosawa (黒澤明, 1910--1998) — Tokyo, Japan
+@end quotation
+
+They never met. They share everything that matters.
+
+@c ============================================================
+@node The Reformers
+@chapter Who They Were — 三人について
+
+@section Martin Luther — マルティン・ルター
+
+An Augustinian monk who nailed 95 theses to a church door in 1517.
+He translated the Bible into German so that farmers could read it.
+The Catholic Church excommunicated him. Half of Europe followed him anyway.
+
+His core teaching: @strong{Sola fide} — by faith alone.
+Not by works, not by purchase, not by priestly permission.
+
+@section Shinran — 親鸞 (しんらん)
+
+A Tendai monk on Mount Hiei who left the monastery after twenty years.
+He married openly — the first major Buddhist figure to do so.
+Exiled from Kyoto, he walked among farmers, fishers, and outcasts,
+teaching that Amida Buddha's compassion was for everyone,
+especially those who could not earn it.
+
+His core teaching: @strong{Tariki} (他力, たりき) — Other Power.
+Not by meditation, not by discipline, not by monastic merit.
+
+@section Akira Kurosawa — 黒澤明 (くろさわあきら)
+
+Trained as a painter, apprenticed in the rigid Japanese studio system.
+He broke its conventions: used multiple cameras, shot in weather,
+cast unknowns, told stories about common people.
+The Japanese industry rejected him in his later years.
+The world called him @emph{Emperor} (天皇, てんのう) of cinema.
+
+His core teaching: @strong{Show the human} — 人間を見せろ (にんげんをみせろ).
+Not spectacle, not propaganda, not studio formula.
+
+@c ============================================================
+@node Parallels
+@chapter Side by Side — 並べて見る (ならべてみる)
+
+@multitable @columnfractions .22 .26 .26 .26
+@headitem @tab Luther @tab Shinran @tab Kurosawa
+@item Trained in
+@tab Catholic monastery
+@tab Tendai Buddhism, Mt. Hiei
+@tab Studio system under Yamamoto
+@item Broke with
+@tab Papal authority
+@tab Monastic establishment
+@tab Studio conventions
+@item Punished by
+@tab Excommunication
+@tab Exile from Kyoto
+@tab Industry rejection
+@item Radical act
+@tab Married a nun
+@tab Married openly
+@tab Cast a unknown (Mifune)
+@item Democratized
+@tab Scripture (German Bible)
+@tab Salvation (nembutsu for all)
+@tab Cinema (stories of villagers)
+@item Core principle
+@tab Sola fide (faith alone)
+@tab Tariki (他力, Other Power)
+@tab Show the human (人間を見せろ)
+@item Founded
+@tab Lutheran tradition
+@tab Jodo Shinshu (浄土真宗)
+@tab Modern world cinema
+@end multitable
+
+@c ============================================================
+@node In Their Own Words
+@chapter Quotes — 言葉 (ことば)
+
+@section Luther
+
+@quotation
+Here I stand. I can do no other. God help me. Amen.
+@author Martin Luther, Diet of Worms, 1521
+@end quotation
+
+@quotation
+The sin underneath all our sins is the lie of the serpent
+that we cannot trust the love and grace of Christ
+and must take matters into our own hands.
+@author Martin Luther
+@end quotation
+
+@section Shinran — 親鸞
+
+@quotation
+Even a good person attains birth in the Pure Land,
+so it goes without saying that an evil person will.
+@author Shinran, Tannisho (歎異抄, たんにしょう), Chapter 3
+@end quotation
+
+@noindent
+This is Shinran's most radical inversion — parallel to Luther's
+@emph{simul justus et peccator} (simultaneously saint and sinner).
+
+@quotation
+I, Shinran, have never once uttered the nembutsu for the sake
+of my father and mother. The reason is that all beings have been
+fathers and mothers, brothers and sisters, in the timeless process
+of birth and death.
+@author Shinran, Tannisho, Chapter 5
+@end quotation
+
+@section Kurosawa — 黒澤明
+
+@quotation
+In a mad world, only the mad are sane.
+@author Akira Kurosawa
+@end quotation
+
+@quotation
+Although human beings are incapable of talking about themselves
+with total honesty, it is much harder to avoid the truth
+while pretending to be other people.
+@author Akira Kurosawa
+@end quotation
+
+@noindent
+And from Seven Samurai (七人の侍, しちにんのさむらい):
+
+@quotation
+This is the nature of war: by protecting others, you save yourselves.
+If you only think of yourself, you'll only destroy yourself.
+@author Kambei (勘兵衛), Seven Samurai, 1954
+@end quotation
+
+@c ============================================================
+@node Onkochishin
+@chapter 温故知新 — The Thread That Binds
+
+@center @strong{温故知新} (おんこちしん)
+@center @emph{Study the old to understand the new.}
+@center — Confucius, via the Analects (論語, ろんご)
+
+@sp 1
+
+This four-character compound (四字熟語, よじじゅくご) from the Analects
+was carried to Japan with Buddhism and Chinese learning.
+It became a cornerstone of Japanese intellectual tradition.
+
+Each of our three reformers embodied it:
+
+@table @strong
+@item Luther (温, on — to warm, to review)
+Returned to the original Greek and Hebrew scriptures,
+warming old texts to kindle new understanding.
+Onkochishin in action: the Reformation was a @emph{return} to sources.
+
+@item Shinran (故, ko — the old, the past)
+Studied twenty years of Tendai tradition on Mount Hiei,
+then walked away carrying its deepest truth:
+we cannot save ourselves.
+The old teaching, honestly received, became something new.
+
+@item Kurosawa (知, chi — to know, to understand)
+Drew from Noh theater (能), Shakespeare, Dostoevsky, and Japanese scroll painting.
+His films are old stories — a village needs defending, a bureaucrat faces death —
+made new through cinema's eye.
+
+@item The Fourth Character (新, shin — the new)
+Kikuchiyo (菊千代). The outsider. The one who doesn't fit.
+He carries no tradition and invents himself.
+He is what the other three made possible:
+the new that could not exist without the old.
+@end table
+
+@c ============================================================
+@node The Keys
+@chapter The Keys — 鍵について (かぎについて)
+
+This pamphlet belongs to the @strong{kagichou} (鍵帳) project:
+a ledger of hardware security keys named after Kurosawa's samurai.
+
+@table @strong
+@item 鍵帳 kagichou (the ledger)
+The record of what is. TOML files, registrations, recovery codes tracked.
+Like Shinran's letters, like Luther's theses — a written account.
+
+@item 鍵守 kagimori (the guardian)
+The Rust tool that will watch over the keys.
+Like Kambei surveying the village — seeing what must be protected.
+@end table
+
+Four keys bear the four characters:
+
+@example
+Kambei    (勘兵衛)  — K51T USB-A   — 温 on   — to warm
+Kyuzo     (久蔵)    — K40T USB-C   — 故 ko   — the old
+Heihachi  (平八)    — K40T USB-C   — 知 chi  — to know
+Kikuchiyo (菊千代)  — K52T USB-C   — 新 shin — the new
+@end example
+
+@noindent
+Read in sequence: @strong{温 → 故 → 知 → 新}@*
+@emph{Warm the old, know the new.}
+
+Three remaining samurai await future keys:
+Gorobei (五郎兵衛), Shichiroji (七郎次), Katsushiro (勝四郎).
+
+@c ============================================================
+@node The Kitchen
+@chapter 台所 — How the Village Was Built
+
+@section The Architecture — 建物 (たてもの)
+
+The project split into two:
+
+@table @strong
+@item 鍵帳 kagichou — the ledger
+A git repository of plain TOML files. The record of what exists.
+Hosted at @code{github.com/aaronjohnson/kagichou}.
+
+@item 鍵守 kagimori — the guardian
+A future Rust CLI tool that reads the ledger and answers questions:
+@emph{Which keys guard PyPI? How many recovery codes remain?}
+@end table
+
+@section Naming the Places — 名前 (なまえ)
+
+In a traditional village, places have meaning.
+In this project, git concepts received Japanese names:
+
+@table @strong
+@item 台所 (だいどころ, daidokoro) — the kitchen
+The default branch. Where Heihachi works.
+In a Japanese household, the 台所 is where everything actually happens.
+In Dwarf Fortress, it is the room that keeps the fortress alive.
+
+@item 元 (もと, moto) — the origin
+The git remote. Where the ledger is stored for safekeeping.
+元 means ``origin, source, foundation'' — a natural replacement
+for git's @code{origin}.
+
+@item 本丸 (ほんまる, honmaru) — the inner citadel
+Considered for the default branch. The innermost compound of a
+Japanese castle (城, しろ, shiro), where the lord resides.
+Reserved for future use.
+@end table
+
+@section The Mishap — 失敗 (しっぱい)
+
+On the 9th of Granite, the keeper accidentally posted the village charter
+to the radio tower (w7lt-mtscott-shm) instead of the ledger hall.
+The error was reverted. Kyuzo said nothing. Kikuchiyo laughed.
+
+This is the way of things: even Shinran wrote in the Tannisho,
+
+@quotation
+I am incapable of any other practice, so hell is decidedly my home.
+@author Shinran, Tannisho, Chapter 2
+@end quotation
+
+@noindent
+Mistakes are not obstacles. They are the path.
+Luther nailed his theses to the wrong door too — it was
+a church door, not a university bulletin board. It worked out.
+
+@section Learning the Script — 文字 (もじ)
+
+The keeper began practicing Japanese input on a Chromebook
+with a Japanese/US keyboard layout:
+
+@table @strong
+@item First successes
+日本語 (にほんご, nihongo) — Japanese language@*
+お願いします (onegai shimasu) — please do@*
+頼む (たのむ, tanomu) — I'm counting on you@*
+完了 (かんりょう, kanryou) — complete
+
+@item First mistakes
+異本語 (いほんご) — typed instead of 日本語.@*
+異 means ``different,'' 日 means ``sun/day.''@*
+The IME offered the wrong kanji. This happens.@*
+鍵長 (かぎちょう) — typed instead of 鍵帳.@*
+長 means ``long/chief,'' 帳 means ``ledger.''@*
+Same reading, different meaning. The IME teaches by error.
+
+@item First quiz
+Q: Which key carries 知 (chi, ``to know'')?@*
+A: 平八 Heihachi — correct! (Not 平八郎 — no 郎!)
+@end table
+
+The IME is like Kikuchiyo: it offers what you did not expect,
+and sometimes what it offers is better than what you intended.
+
+@c ============================================================
+@node Vocabulary
+@chapter 練習 (れんしゅう) — Practice
+
+Key terms from this pamphlet. Type them on your Japanese keyboard.
+
+@section Core Words
+
+@table @strong
+@item 鍵 (かぎ, kagi)
+Key. Type @code{kagi}, press Space.
+
+@item 守 (もり, mori)
+Guardian, keeper. Type @code{mori}, press Space.
+
+@item 帳 (ちょう, chou)
+Ledger, notebook. Type @code{chou}, press Space.
+
+@item 改革 (かいかく, kaikaku)
+Reform, reformation. Type @code{kaikaku}, press Space.
+
+@item 言葉 (ことば, kotoba)
+Words, language. Type @code{kotoba}, press Space.
+@end table
+
+@section People
+
+@table @strong
+@item 親鸞 (しんらん, shinran)
+Shinran. Type @code{shinran}, press Space.
+
+@item 黒澤明 (くろさわあきら, kurosawa akira)
+Akira Kurosawa. Type @code{kurosawa}, Space, @code{akira}, Space.
+
+@item 七人の侍 (しちにんのさむらい, shichinin no samurai)
+Seven Samurai. Type @code{shichinin}, Space, @code{no}, @code{samurai}, Space.
+@end table
+
+@section Philosophical Terms
+
+@table @strong
+@item 温故知新 (おんこちしん, onkochishin)
+Study the old to understand the new. Type @code{onkochishin}, press Space.
+
+@item 他力 (たりき, tariki)
+Other Power — Shinran's core teaching. Type @code{tariki}, press Space.
+
+@item 自力 (じりき, jiriki)
+Self Power — what Shinran rejected. Type @code{jiriki}, press Space.
+
+@item 四字熟語 (よじじゅくご, yojijukugo)
+Four-character compound. Type @code{yojijukugo}, press Space.
+@end table
+
+@section The Samurai
+
+@table @strong
+@item 勘兵衛 (かんべえ, kanbee)
+Kambei — the wise leader. @code{kanbee}, Space.
+
+@item 久蔵 (きゅうぞう, kyuuzou)
+Kyuzo — the silent master. @code{kyuuzou}, Space.
+
+@item 平八 (へいはち, heihachi)
+Heihachi — the cheerful one. @code{heihachi}, Space.
+
+@item 菊千代 (きくちよ, kikuchiyo)
+Kikuchiyo — the wild outsider. @code{kikuchiyo}, Space.
+@end table
+
+@section Git & Village Terms
+
+@table @strong
+@item 台所 (だいどころ, daidokoro)
+Kitchen — the default branch. @code{daidokoro}, Space.
+
+@item 元 (もと, moto)
+Origin — the git remote. @code{moto}, Space.
+
+@item 本丸 (ほんまる, honmaru)
+Inner citadel. @code{honmaru}, Space.
+
+@item 蔵 (くら, kura)
+Storehouse. @code{kura}, Space.
+
+@item 砦 (とりで, toride)
+Fortress. @code{toride}, Space.
+
+@item 遠隔 (えんかく, enkaku)
+Remote, distant. @code{enkaku}, Space.
+
+@item 失敗 (しっぱい, shippai)
+Mistake, failure. @code{shippai}, Space.
+
+@item 文字 (もじ, moji)
+Character, letter, script. @code{moji}, Space.
+
+@item 名前 (なまえ, namae)
+Name. @code{namae}, Space.
+
+@item 建物 (たてもの, tatemono)
+Building, structure. @code{tatemono}, Space.
+@end table
+
+@section Conversational
+
+@table @strong
+@item はい (hai)
+Yes — polite, standard.
+
+@item お願いします (おねがいします, onegai shimasu)
+Please do — polite request. @code{onegaishimasu}, Space.
+
+@item 頼む (たのむ, tanomu)
+I'm counting on you — samurai tone. @code{tanomu}, Space.
+
+@item 良さそう (よさそう, yosasou)
+Looks good (LGTM). @code{yosasou}, Space.
+
+@item 完了 (かんりょう, kanryou)
+Done, complete. @code{kanryou}, Space.
+
+@item 正しい (ただしい, tadashii)
+Correct. @code{tadashii}, Space.
+
+@item 小さい (ちいさい, chiisai)
+Small. @code{chiisai}, Space.
+
+@item 日本語 (にほんご, nihongo)
+Japanese language. @code{nihongo}, Space.
+@end table
+
+@sp 2
+@center @emph{温故知新}
+@center Warm the old, know the new.
+@center @emph{Fold this page. Carry it with you.}
+
+@bye
