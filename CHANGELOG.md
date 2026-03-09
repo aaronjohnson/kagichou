@@ -73,3 +73,36 @@ The IME offered 異本語 instead of 日本語. Kikuchiyo laughed.
 
 > *Four keys named. One pamphlet written. The keeper learns to write.*
 > *温故知新 — warm the old, know the new.*
+
+---
+
+## 9th of Granite, Year One — Afternoon (2026-03-09)
+
+*"One time, one meeting — treasure this moment, for it will never come again."*
+— 一期一会 (いちごいちえ), from the way of tea (茶道)
+
+All four keys were presented to the gate of PyPI and accepted.
+Kambei (温) went first, as a leader should.
+Kyūzō (故) followed without a word.
+Heihachi (知) joked that the gate was smaller than expected.
+Kikuchiyo (新) shoved past everyone and nearly broke the lock.
+
+The village is no longer unguarded.
+
+Two more warriors arrived from across the valley:
+
+- **Gorobei** (五郎兵衛) — K40T USB-C — 一 ichi — warm and perceptive
+- **Shichiroji** (七郎次) — Titan USB-A (model unknown) — 期 ki — reliable and steady
+
+They carry a new saying: **一期一会** — one time, one meeting.
+From the tea ceremony, where every gathering is unrepeatable,
+as every authentication is a single moment of trust.
+
+The keeper's strategy (戦略) was declared:
+four to six sets of the same keys, registered everywhere within reason.
+Redundancy is compassion for your future self.
+
+One samurai remains: Katsushiro (勝四郎), the youngest, still learning.
+
+> *Six keys in hand. Four guard the gate. The tea is served once.*
+> *一期一会 — one time, one meeting.*

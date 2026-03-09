@@ -269,8 +269,33 @@ Kikuchiyo (菊千代)  — K52T USB-C   — 新 shin — the new
 Read in sequence: @strong{温 → 故 → 知 → 新}@*
 @emph{Warm the old, know the new.}
 
-Three remaining samurai await future keys:
-Gorobei (五郎兵衛), Shichiroji (七郎次), Katsushiro (勝四郎).
+@section The Second Saying — 一期一会 (いちごいちえ)
+
+The first four keys carried 温故知新.
+The next carry a second four-character compound:
+
+@center @strong{一期一会} (いちごいちえ, ichigo ichie)
+@center @emph{One time, one meeting.}
+@center — from the tea ceremony tradition (茶道, さどう, sadou)
+
+Every encounter is unique and can never be repeated.
+Every authentication is a single, unrepeatable moment.
+Treasure it. Be present for it.
+
+@example
+Gorobei    (五郎兵衛)  — K40T USB-C   — 一 ichi — one
+Shichiroji (七郎次)    — Titan USB-A  — 期 go/ki — time, occasion
+@end example
+
+@noindent
+One samurai remains: Katsushiro (勝四郎), the youngest,
+eager to learn. He awaits a seventh key and will carry
+一会 (ichie, ``one meeting'') — or the characters will be
+split across him and one more.
+
+The keeper's strategy (戦略, せんりゃく, senryaku):
+4--6 identical key sets, registered everywhere within reason.
+Redundancy is compassion for your future self.
 
 @c ============================================================
 @node The Kitchen
@@ -490,9 +515,126 @@ Small. @code{chiisai}, Space.
 Japanese language. @code{nihongo}, Space.
 @end table
 
+@section New from 一期一会
+
+@table @strong
+@item 一期一会 (いちごいちえ, ichigo ichie)
+One time, one meeting. @code{ichigoichie}, Space.
+
+@item 茶道 (さどう, sadou)
+The way of tea — tea ceremony. @code{sadou}, Space.
+
+@item 戦略 (せんりゃく, senryaku)
+Strategy. @code{senryaku}, Space.
+
+@item 手元 (てもと, temoto)
+At hand, in one's possession. @code{temoto}, Space.
+
+@item 場所 (ばしょ, basho)
+Place, location. @code{basho}, Space.
+
+@item 正しい (ただしい, tadashii)
+Correct. @code{tadashii}, Space.
+
+@item 小さい (ちいさい, chiisai)
+Small. @code{chiisai}, Space.
+
+@item 記憶 (きおく, kioku)
+Memory. @code{kioku}, Space.
+@end table
+
+@c ============================================================
+@chapter 小テスト (しょうてすと) — Quizzes
+
+Repetition is the path. 繰り返しは道である。
+(くりかえしはみちである, kurikaeshi wa michi de aru.)
+
+@section Quiz 1 — The Samurai and Their Kanji
+
+Match each samurai to their kanji:
+
+@example
+1. Kambei  (勘兵衛)     a. 新
+2. Kyuzo   (久蔵)       b. 温
+3. Heihachi (平八)      c. 知
+4. Kikuchiyo (菊千代)   d. 故
+5. Gorobei (五郎兵衛)   e. 期
+6. Shichiroji (七郎次)  f. 一
+@end example
+
+@noindent
+Answers (read upside down or cover with hand):@*
+1-b, 2-d, 3-c, 4-a, 5-f, 6-e
+
+@section Quiz 2 — Readings
+
+Write the hiragana for each kanji:
+
+@example
+1. 鍵帳     ___________
+2. 鍵守     ___________
+3. 温故知新  ___________
+4. 一期一会  ___________
+5. 台所     ___________
+6. 完了     ___________
+7. 戦略     ___________
+8. 日本語    ___________
+@end example
+
+@noindent
+Answers:@*
+1. かぎちょう  2. かぎもり  3. おんこちしん  4. いちごいちえ@*
+5. だいどころ  6. かんりょう  7. せんりゃく  8. にほんご
+
+@section Quiz 3 — Meanings
+
+What do these mean in English?
+
+@example
+1. 他力 (たりき)     ___________
+2. 自力 (じりき)     ___________
+3. 手元 (てもと)     ___________
+4. 失敗 (しっぱい)    ___________
+5. 元 (もと)        ___________
+6. 言葉 (ことば)     ___________
+7. 改革 (かいかく)    ___________
+8. 練習 (れんしゅう)   ___________
+@end example
+
+@noindent
+Answers:@*
+1. Other Power  2. Self Power  3. At hand  4. Mistake/failure@*
+5. Origin  6. Words/language  7. Reform  8. Practice
+
+@section Quiz 4 — The Reformers
+
+@example
+1. Who said "Here I stand"?            ___________
+2. Who wrote the Tannisho?             ___________
+3. Who directed Seven Samurai?          ___________
+4. What is Shinran's core teaching?     ___________
+5. What is Luther's core teaching?      ___________
+6. What does 温故知新 mean?             ___________
+7. What does 一期一会 mean?             ___________
+@end example
+
+@noindent
+Answers:@*
+1. Luther  2. Shinran (親鸞)  3. Kurosawa (黒澤明)@*
+4. Tariki/他力 (Other Power)  5. Sola fide (faith alone)@*
+6. Study the old to understand the new@*
+7. One time, one meeting
+
 @sp 2
 @center @emph{温故知新}
 @center Warm the old, know the new.
+@sp 1
+@center @emph{一期一会}
+@center One time, one meeting.
+@sp 1
+@center @emph{繰り返しは道である}
+@center Repetition is the path.
+@sp 1
 @center @emph{Fold this page. Carry it with you.}
 
 @bye
